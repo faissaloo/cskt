@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Android package manager was called with:"
+echo $@
